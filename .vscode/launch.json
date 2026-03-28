@@ -28,8 +28,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "f:/Projects/C-Plus-Plus/01-hello-world",
-      "program": "f:/Projects/C-Plus-Plus/01-hello-world/build/Debug/outDebug",
+      "cwd": "f:/Projects/C-Plus-Plus/Section 4 - Getting Started/Favorite_Number",
+      "program": "f:/Projects/C-Plus-Plus/Section 4 - Getting Started/Favorite_Number/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
